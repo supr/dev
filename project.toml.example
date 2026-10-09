@@ -1,0 +1,7 @@
+[project]
+name = "myproject"
+
+[repositories]
+frontend = "git@git.example.com:org/frontend.git"
+backend = "git@git.example.com:org/backend.git"
+shared = "git@git.example.com:org/shared.git"
